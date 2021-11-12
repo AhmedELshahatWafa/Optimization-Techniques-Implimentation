@@ -1,5 +1,5 @@
 # OptimizationTechniquesImplimentation
-In this repo I implimented the following Algorithms
+In this repo I implimented the following Techniques
 <ul>
 <li>Newton's Methon For Root Finding</li>
 <li>Batch Gradient Decent (Vectorized) </li>
